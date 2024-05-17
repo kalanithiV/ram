@@ -1,0 +1,9 @@
+.nav{display: flex;gap:10px;margin:10px 0;align-items: center;justify-content: space-between;}
+.nav_left img{height: 50px;}
+.nav_menu{display: flex;gap:25px}
+.nav_menu a.MuiTypography-root {font-size: 18px;color:#000;text-decoration: none;}
+.nav_left{margin-right: 40px;}
+.nav_menuright{align-items: center;}
+.get_staredbtn{padding:15px;border:1px solid #ccc;border-radius: 8px;}
+.nav_leftfull{display: flex;align-items: center;}
+

@@ -1,0 +1,4 @@
+.blackbtn.MuiButtonBase-root,.blackbtn.MuiButtonBase-root:hover {background:#000;padding:20px;font-size: 16px;color:#FFF;height: 50px;text-transform: lowercase;border-radius: 15px;}
+.outlined_btn.MuiButtonBase-root, .outlined_btn.MuiButtonBase-root:hover{background-color: transparent; border: none;border-right: 2px solid #000;
+   border-left: 2px solid #000;color: #222;border-radius:30px;text-transform: lowercase;}
+.Buttonouter{margin-top: 0;gap:20px;display: flex;}
