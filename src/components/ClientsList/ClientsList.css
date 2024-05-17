@@ -1,0 +1,3 @@
+.client_listouter{padding-top:25px;display: flex;flex-direction: column;gap: 15px;}
+.client_listouter p{font-size: 16px;color:#666;}
+.client_listouter ul{list-style: none;padding:0;margin: 0;display: flex;gap:20px;}
